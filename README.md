@@ -1,2 +1,3 @@
 # tanzeela.start
-this is my first github work
+this is my first github repository
+Author:tanzeela zaheer
